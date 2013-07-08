@@ -1,8 +1,8 @@
 {
-  :developers => ["First Last 1", "First Last 2"]
-  :project_name => "The Project Name",
-  :project_description => "One paragraph about what the app will do and why",
-  :backend_technologies => ['riak'],
-  :frontend_technologies => ['D3']
-  :repo => 'http://github.com/username/repo_name'
+  :developers => ["Jennifer Eliuk"]
+  :project_name => "911 Data Analysis",
+  :project_description => "Tools to enable dispatch centers to accept and analyze text messages, pictures and videos sent to 911",
+  :backend_technologies => ['Node'],
+  :frontend_technologies => ['Backbone']
+  :repo => 'https://github.com/7maples/911.git'
 }
